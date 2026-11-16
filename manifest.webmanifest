@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "JHS ALS A&E Reviewer LS 3 - Mathematics",
+  "short_name": "JHS A&E LS3 Math",
+  "description": "2027 JHS ALS LS3 mathematics practice reviewer: 120 curriculum-mapped questions, Taglish worked solutions, offline mode, PDF learner responses.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#12243a",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
